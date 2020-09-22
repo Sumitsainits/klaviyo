@@ -1,0 +1,22 @@
+{
+  "name": "practiceapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.11.1"
+  }
+}
